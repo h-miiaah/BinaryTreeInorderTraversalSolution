@@ -40,5 +40,6 @@
 - Push the current node to the stack and move the pointer to its right child.
 - Pop the current node from the stack and push its value to the result array.
 - Move the pointer to the current node’s right child.
+- Finaly return the result array.
 
 */
