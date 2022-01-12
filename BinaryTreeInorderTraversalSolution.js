@@ -11,5 +11,5 @@
  * @return {number[]}
  */
  var inorderTraversal = function(root) {
-    
+    var stack = [];
 };
