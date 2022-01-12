@@ -37,5 +37,7 @@
 - Loop while the stack is not empty or the current node is not null.
 - Push the current node to the stack and move the pointer to its left child.
 - Loop while the current node is not null.
+- Push the current node to the stack and move the pointer to its right child.
+
 
 */
