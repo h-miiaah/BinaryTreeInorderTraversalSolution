@@ -35,5 +35,7 @@
 - Initialize a stack and a result array.
 - Initialize a pointer to the root node.
 - Loop while the stack is not empty or the current node is not null.
+- Push the current node to the stack and move the pointer to its left child.
+
 
 */
