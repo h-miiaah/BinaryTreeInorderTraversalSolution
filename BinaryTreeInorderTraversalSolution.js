@@ -14,4 +14,9 @@
     var stack = [];
     var now = root;
     var res = [];
+
+    while (now || stack.length) {
+        
+      }
+
 };
