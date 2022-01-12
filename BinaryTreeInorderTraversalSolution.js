@@ -20,6 +20,9 @@
             stack.push(now);
             now = now.left;
           }
+          now = stack.pop();
+          res.push(now.val);
+          now = now.right;
       }
 
 };
