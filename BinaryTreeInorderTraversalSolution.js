@@ -33,5 +33,6 @@
 /*
 
 - Initialize a stack and a result array.
+- Initialize a pointer to the root node.
 
 */
