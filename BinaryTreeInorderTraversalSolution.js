@@ -16,7 +16,9 @@
     var res = [];
 
     while (now || stack.length) {
-        
+        while (now) {
+            
+          }
       }
 
 };
