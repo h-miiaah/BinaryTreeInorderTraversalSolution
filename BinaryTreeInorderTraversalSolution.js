@@ -28,3 +28,10 @@
       return res;
 
 };
+
+
+/*
+
+- Initialize a stack and a result array.
+
+*/
