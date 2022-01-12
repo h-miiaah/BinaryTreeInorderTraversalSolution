@@ -17,7 +17,8 @@
 
     while (now || stack.length) {
         while (now) {
-            
+            stack.push(now);
+            now = now.left;
           }
       }
 
