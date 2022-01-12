@@ -25,4 +25,6 @@
           now = now.right;
       }
 
+      return res;
+
 };
