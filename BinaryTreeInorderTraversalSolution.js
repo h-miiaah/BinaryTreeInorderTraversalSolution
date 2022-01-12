@@ -13,4 +13,5 @@
  var inorderTraversal = function(root) {
     var stack = [];
     var now = root;
+    var res = [];
 };
